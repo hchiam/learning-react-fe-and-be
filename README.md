@@ -127,6 +127,14 @@ yarn start
 yarn start
 ```
 
+Frontend Client should look like this:
+
+<img src="https://github.com/hchiam/learning-react-fe-and-be/blob/master/client.png" height="200" alt="frontend client"/>
+
+Backend API should look like this:
+
+<img src="https://github.com/hchiam/learning-react-fe-and-be/blob/master/api.png" height="100" alt="backend API"/>
+
 ## Aside
 
 You can get up to speed on `yarn` here: <https://github.com/hchiam/learning-yarn>
