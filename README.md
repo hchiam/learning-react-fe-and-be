@@ -138,3 +138,5 @@ Backend API should look like this:
 ## Aside
 
 You can get up to speed on `yarn` here: <https://github.com/hchiam/learning-yarn>
+
+More of my learning of React here: <https://github.com/hchiam/learning-reactjs>
