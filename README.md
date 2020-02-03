@@ -2,7 +2,7 @@
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
-Learning from an (old 2018) freeCodeCamp tutorial: <https://www.freecodecamp.org/news/create-a-react-frontend-a-node-express-backend-and-connect-them-together-c5798926047c/>
+Learning from an (old 2018) freeCodeCamp tutorial: <https://www.freecodecamp.org/news/create-a-react-frontend-a-node-express-backend-and-connect-them-together-c5798926047c/> (but I got it working in 2020).
 
 Tutorial's reference repo (old 2018): <https://github.com/Joao-Henrique/React_Express_App_Medium_Tutorial>
 
